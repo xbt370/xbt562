@@ -3,7 +3,6 @@
 ## 每隔3小时拉取一次作者脚本到自己仓库的sunert分支
 
 
-
 name: Sunert-sync
 on:
   schedule:
